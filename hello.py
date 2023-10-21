@@ -8,7 +8,7 @@ def more_goodbye():
 
 # this is non-sense code that is generate warning
 var = 1
-var = var
+var2 = 2
 
 # bad syntax
 # foo =
